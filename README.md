@@ -1,2 +1,2 @@
 # github
-Procedimento: GitHub
+Repositório com aprendizado e exercícios: GitHub
