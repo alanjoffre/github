@@ -1,2 +1,2 @@
 # github
-Repositório com aprendizado e exercícios: GitHub
+- Repositório com: artigos, aprendizados, exercícios e projetos.
